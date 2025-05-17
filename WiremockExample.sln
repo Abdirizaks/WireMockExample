@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiremockExample", "WiremockExample\WiremockExample.csproj", "{EBA7C7FB-E14C-423F-933C-1D583DC97581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiremockExample.Application", "WiremockExample.Application\WiremockExample.Application.csproj", "{6C61D628-AEDB-4E53-85A5-E3CA92C0E6E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiremockExample.IntegrationTests", "WiremockExample.IntegrationTests\WiremockExample.IntegrationTests.csproj", "{D4D7DA45-10B7-4AB3-A183-937D6F481214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA7C7FB-E14C-423F-933C-1D583DC97581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA7C7FB-E14C-423F-933C-1D583DC97581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA7C7FB-E14C-423F-933C-1D583DC97581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA7C7FB-E14C-423F-933C-1D583DC97581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C61D628-AEDB-4E53-85A5-E3CA92C0E6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C61D628-AEDB-4E53-85A5-E3CA92C0E6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C61D628-AEDB-4E53-85A5-E3CA92C0E6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C61D628-AEDB-4E53-85A5-E3CA92C0E6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D7DA45-10B7-4AB3-A183-937D6F481214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D7DA45-10B7-4AB3-A183-937D6F481214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D7DA45-10B7-4AB3-A183-937D6F481214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D7DA45-10B7-4AB3-A183-937D6F481214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
